@@ -1,0 +1,72 @@
+.navigation{
+    background-color: black;
+    
+    padding: 10px 15px 15px 20px;
+    border: 4px solid rgba(0, 47, 255, 0.429);
+    
+    
+ 
+}
+   
+a{
+    text-decoration: none;
+    margin: 10px;
+    padding: 100px 40px;
+    color: aliceblue;
+    font-size: 20px;
+ 
+    position: sticky;
+    top: 0;
+    
+
+}
+a:hover{
+    color: blue;
+
+}
+
+
+.img{
+    text-align: center;
+    background-color: rgb(6, 145, 145);
+    border: 2px solid rgb(92, 182, 237);
+    border-radius: 10pxS;
+}
+.logo{
+    width: 160px;
+    padding: PX ;
+}
+.pic1{
+    width: 33%;
+    padding: 15px 15px;
+}
+h1{
+    color: rgb(230, 230, 7);
+    background-color: rgb(17, 17, 71);
+    
+}
+body{
+    box-sizing: border-box;
+    border: 2px solid rgb(11, 90, 118);
+}
+.video{
+    text-align: center;
+    background-color: rgb(210, 221, 222);
+}
+.pic1{
+    width: 38%;
+}
+.pic4{
+    width: 38%;
+    text-align: right;
+
+}
+.pic{
+    padding: 50px 50px;
+}
+.head{
+    position: sticky;
+    top:0;
+}
+    
+
